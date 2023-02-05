@@ -1,0 +1,1 @@
+MODEL_FILE_PATH = r"C:\Users\dell\Desktop\Flask\iris_model 3\iris_model.pickle"
